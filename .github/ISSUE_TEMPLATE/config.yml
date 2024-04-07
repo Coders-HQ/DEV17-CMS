@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 💬 Discussion
+    url: https://github.com/Coders-HQ/DEV17-CMS/discussions
+    about: Ask a question or start a general discussion before project issue is created.
